@@ -1,0 +1,82 @@
+.open-sans{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings: "width";
+}
+h2{
+    font-weight: 700;
+}
+body{
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #908d8e;
+}
+.top-bar{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    border-bottom: 5px solid rgb(105, 72, 9);
+    padding: 8px;
+}
+.container{
+    max-width: 888px;
+    margin: auto;
+    padding: 30px;
+    background-color: #989596;
+}
+.headline{
+    font-size: 56px;
+    line-height: 64px;
+}
+.subtitle{
+    font-weight: normal;
+    font-size: 20px;
+}
+.author{
+    font-weight: bold;
+    font-size: 0.7em;
+}
+.social-icons{
+    margin-top: 10px;
+}
+.social-icon{
+    width: 20px;
+    padding: 10px 10px 10px 0;
+}
+a{
+    text-decoration: none;
+}
+.content{
+    max-width: 648px;
+    margin: auto;
+}
+p{
+    font-size: 19px;
+    line-height: 28px;
+}
+.cars-image>img{
+    width: 100%;
+}
+.list-car{
+    padding-top: 10px;
+    padding-bottom: 150px;
+}
+.description{
+    padding-bottom: 10px;
+}
+.bibliography{
+    background-color: black;
+    color: white;
+}
+.logomotor1{
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+    padding: 100px;
+    cursor: pointer;
+}
